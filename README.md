@@ -114,8 +114,6 @@ When you run the detection script, you’ll see bounding boxes drawn around dete
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | ![Input](https://github.com/ARASIF1-6/Face_detection_with_webcam_using_DL_Algo/assets/input.jpg) | ![Output](https://github.com/ARASIF1-6/Face_detection_with_webcam_using_DL_Algo/assets/output.jpg) |
 
-*(You can replace the above with real screenshots or a GIF demo.)*
-
 ---
 
 ## ⚙️ Code Highlights
